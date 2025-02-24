@@ -1,2 +1,2 @@
 # prac1-2
-POO
+Prog Orientada Objetos 
